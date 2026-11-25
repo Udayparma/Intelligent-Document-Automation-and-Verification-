@@ -1,0 +1,8 @@
+Flask
+pytesseract
+PyMuPDF
+Pillow
+Werkzeug
+reportlab
+opencv-python-headless
+numpy
